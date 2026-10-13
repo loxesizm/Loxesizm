@@ -1,5 +1,3 @@
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1manpmbzZ0bGpneW5hcGR6YjI2ZHNjYWhlejF5emR4d2J6NjkyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3Gin2TnIVOE5TiG94/giphy.gif)
-
 <h1 align="center">Hi 👋, I'm Loxesizm</h1>
 <h3 align="center">Software Developer focused on C++. Reverse Engineering. Machine Learning and Systems Programming.</h3>
 
