@@ -1,4 +1,4 @@
-[! [MasterHead](https://giphy.com/gifs/black-and-white-glitch-abstract-3og0IRnJUiWJYzUhva)
+![MasterHead](https://media.giphy.com/media/3og0IRnJUiWJYzUhva/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Loxesizm</h1>
 <h3 align="center">Software Developer focused on C++. Reverse Engineering. Machine Learning and Systems Programming.</h3>
